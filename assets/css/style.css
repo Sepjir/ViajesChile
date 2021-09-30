@@ -1,10 +1,26 @@
 body {
     background-color: #000;
     font-family: 'Lato', sans-serif;
+    color: #fff;
+    font-weight: 400;
 }
 
 .navbar {
     position: fixed;
     z-index: 100;
     width: 100%;
+}
+
+.carousel_viajes img {
+    max-height: 750px;
+}
+
+.titulos_secciones {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.barra_espaciadora {
+    border: 1px solid #17a3b8
+
 }
