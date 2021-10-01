@@ -15,8 +15,16 @@ body {
     max-height: 750px;
 }
 
+.fondo_iconos {
+    background-color: #17a3b8;
+}
+
 .titulos_secciones {
     font-size: 40px;
+    font-weight: 700;
+}
+
+.card-title {
     font-weight: 700;
 }
 
@@ -26,6 +34,7 @@ body {
 }
 .card {
     width: 263px;
+    background-color: #17a3b8;
 }
 .barra_espaciadora {
     border: 1px solid #17a3b8
@@ -41,6 +50,11 @@ body {
 }
 
 a:visited {
+    color: #fff;
+}
+
+a:link {
+    text-decoration: none;
     color: #fff;
 }
 
