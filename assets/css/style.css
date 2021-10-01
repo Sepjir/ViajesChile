@@ -20,6 +20,36 @@ body {
     font-weight: 700;
 }
 
+.card img {
+    width: 263px;
+    height: 169px;
+}
+.card {
+    width: 263px;
+}
 .barra_espaciadora {
     border: 1px solid #17a3b8
+}
+
+.footer_viajes{
+    background-color: #17a3b8;
+}
+
+.titulo_footer {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+a:visited {
+    color: #fff;
+}
+
+/* Ajustes Mobile */
+@media (max-width: 400px) {
+    .titulo_footer {
+        font-size: 20px;
+    }
+    .fab {
+        font-size: 25px;
+    }
 }
