@@ -6,7 +6,7 @@ body {
 }
 
 .navbar {
-    position: fixed;
+    position: absolute;
     z-index: 100;
     width: 100%;
 }
