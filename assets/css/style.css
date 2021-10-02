@@ -58,6 +58,10 @@ a:link {
     color: #fff;
 }
 
+.iconoRojo {
+    color: red;
+}
+
 /* Ajustes Mobile */
 @media (max-width: 500px) {
     .titulo_footer {
